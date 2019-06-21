@@ -1,0 +1,16 @@
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.Properties.Resources.resources
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.功能选择.resources
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.菲菲.resources
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.顾客入住.resources
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.csproj.GenerateResource.cache
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.csproj.CoreCompileInputs.cache
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\bin\Debug\菲菲酒店管理系统.exe.config
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\bin\Debug\菲菲酒店管理系统.exe
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\bin\Debug\菲菲酒店管理系统.pdb
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.csproj.CopyComplete
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.exe
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.pdb
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.房间信息.resources
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.历史信息.resources
+C:\Users\13050\Desktop\ORAACLE\菲菲酒店管理系统\菲菲酒店管理系统\obj\Debug\菲菲酒店管理系统.修改密码.resources
