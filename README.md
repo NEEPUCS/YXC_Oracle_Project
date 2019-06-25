@@ -6,8 +6,7 @@
 
 [![Stars](https://img.shields.io/github/stars/NEEPUCS/YXC_Oracle_Project.svg?label=Stars&style=social)](https://github.com/NEEPUCS/YXC_Oracle_Project/stargazers)
 [![Forks](https://img.shields.io/github/forks/NEEPUCS/YXC_Oracle_Project.svg?label=Fork&style=social)](https://github.com/NEEPUCS/YXC_Oracle_Project/network/members)
-[![Contributors](https://img.shields.io/github/contributors/NEEPUCS/YXC_Oracle_Project.svg)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
-[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Contributors](https://img.shields.io/github/contributors/NEEPUCS/YXC_Oracle_Project.svg)](https://github.com/NEEPUCS/YXC_Oracle_Project/graphs/contributors)
 
 2019年6月16日，大学数据库课程设计开始，为期5天，麻烦的是要从三门语言中选择一个，即从**C#**，**PHP**，**JAVA**中选择，经过我们班的团结协作，所有人都完成了设计要求，其中我选出了使用C#语言中较为优秀的作品。
 
@@ -50,3 +49,9 @@
 
 点击上方的“数据重置”按钮，重置所有数据
 ![数据重置](https://github.com/NEEPUCS/YXC_Oracle_Project/blob/master/img/w.png)
+
+## Lisence
+For commercial, keep your source code private/proprietary by purchasing a Commercial License/Enterprise Edition.
+
+对于商业用途，请通过购买企业版/Enterprise来私有化你的源代码。
+
