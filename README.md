@@ -45,9 +45,11 @@
 ![历史信息](https://github.com/NEEPUCS/YXC_Oracle_Project/blob/master/img/u.png)
 
 7.点击修改密码，对密码进行修改
+
 ![修改密码](https://github.com/NEEPUCS/YXC_Oracle_Project/blob/master/img/v.png)
 
 点击上方的“数据重置”按钮，重置所有数据
+
 ![数据重置](https://github.com/NEEPUCS/YXC_Oracle_Project/blob/master/img/w.png)
 
 ## Lisence
