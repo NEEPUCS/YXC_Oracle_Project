@@ -9,7 +9,7 @@
 [![Contributors](https://img.shields.io/github/contributors/NEEPUCS/YXC_Oracle_Project.svg)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-2019年6月16日，大学数据库课程设计开始，为期5天，麻烦的是要从三门语言中选择一个，即从**C#**，**PHP**，**JAVA**中选择，经过我们班的团结协作，所有人都完成了设计要求，其中我选出了使用C#语言中较为优秀的。
+2019年6月16日，大学数据库课程设计开始，为期5天，麻烦的是要从三门语言中选择一个，即从**C#**，**PHP**，**JAVA**中选择，经过我们班的团结协作，所有人都完成了设计要求，其中我选出了使用C#语言中较为优秀的作品。
 
 
 ----------
