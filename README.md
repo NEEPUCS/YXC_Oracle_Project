@@ -53,7 +53,5 @@
 ![数据重置](https://github.com/NEEPUCS/YXC_Oracle_Project/blob/master/img/w.png)
 
 ## Lisence
-For commercial, keep your source code private/proprietary by purchasing a Commercial License/Enterprise Edition.
 
-对于商业用途，请通过购买企业版/Enterprise来私有化你的源代码。
 
